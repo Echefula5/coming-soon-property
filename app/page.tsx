@@ -65,7 +65,7 @@ export default function ComingSoonProperty() {
               href="#contact"
               className="text-muted-foreground hover:text-foreground transition-colors"
             >
-              Contact
+              Contacts
             </a>
           </nav>
         </div>
